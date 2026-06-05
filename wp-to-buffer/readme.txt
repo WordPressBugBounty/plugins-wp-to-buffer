@@ -5,7 +5,7 @@ Tags: social media automation, auto post, buffer, social media scheduler, auto p
 Requires at least: 5.0
 Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 6.0.4
+Stable tag: 6.0.5
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -316,6 +316,14 @@ Visit [our website](https://www.wpzinc.com/plugins/wordpress-to-buffer-pro/) to 
 4. Post-level Logging.
 
 == Changelog ==
+
+= 6.0.5 (2026-06-05) =
+* Added: Status: Insert Tags: All in One SEO Pack Title and Description
+* Added: Status: Insert Tags: Rank Math Title and Description
+* Added: Status: Insert Tags: SEOPress Title and Description
+* Added: Status: Insert Tags: Yoast SEO Title and Description
+* Fix: Status: Link: Read Meta Title and Description from AIOSEO, Rank Math, SEOPress and Yoast SEO
+* Fix: Settings: Post Types: Improve performance by using cached profile data
 
 = 6.0.4 (2026-06-02) =
 * Fix: API: Profiles: Increase transient expiry from 12 hours to 1 week
